@@ -27,6 +27,7 @@ class MessageFieldBox extends StatelessWidget {
         }, 
         icon: const Icon(Icons.send)),
       );
+      //This return TextFormField
 
     return TextFormField(
       onTapOutside: (event) {
