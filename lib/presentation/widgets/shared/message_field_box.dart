@@ -22,7 +22,6 @@ class MessageFieldBox extends StatelessWidget {
         suffix: IconButton(
           onPressed: (){
             //final textValue = textController.text;
-            //TODO: Enviar mensaje
             textController.clear();
 
         }, 
