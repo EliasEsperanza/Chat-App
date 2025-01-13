@@ -23,7 +23,7 @@ class MessageFieldBox extends StatelessWidget {
           onPressed: (){
             //final textValue = textController.text;
             textController.clear();
-
+          //Todo: Enviar mensaje
         }, 
         icon: const Icon(Icons.send)),
       );
