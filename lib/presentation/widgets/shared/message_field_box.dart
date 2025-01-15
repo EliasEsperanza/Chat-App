@@ -38,6 +38,7 @@ class MessageFieldBox extends StatelessWidget {
         print('Mensaje: $value');
         textController.clear();
         focusNode.requestFocus();
+        //focusNode.unfocus();
       },
     );
   }
