@@ -40,11 +40,7 @@ class MessageFieldBox extends StatelessWidget {
         focusNode.requestFocus();
         
       },
-      OnEditingComplete: () {
-        print('Mensaje: ${textController.text}');
-        textController.clear();
-        focusNode.requestFocus();
-      },
+      
     );
   }
 }
