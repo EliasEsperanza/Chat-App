@@ -40,6 +40,8 @@ class MessageFieldBox extends StatelessWidget {
         focusNode.requestFocus();
         
       },
+
+      // onChanged:
       
     );
   }
