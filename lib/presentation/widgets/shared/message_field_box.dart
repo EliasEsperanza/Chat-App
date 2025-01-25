@@ -41,7 +41,7 @@ class MessageFieldBox extends StatelessWidget {
         
       },
 
-      
+      //underlineInputBorder: outlineInputBorder,
       
     );
   }
