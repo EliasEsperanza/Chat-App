@@ -43,7 +43,7 @@ class MessageFieldBox extends StatelessWidget {
 
       //underlineInputBorder: outlineInputBorder,
       // hintText: 'Escribe un mensaje',
-      //unitTes
+      //unitTes2
     );
   }
 }
