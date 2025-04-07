@@ -110,6 +110,7 @@ class MessageFieldBox extends StatelessWidget {
       //0304
       //0404
       //0504
+      //0604
     );
   }
 }
